@@ -24,3 +24,14 @@ Step-5
 Check-in the box node to get the labels visible
 ![image](https://user-images.githubusercontent.com/82569847/222903945-f66a48e6-e2a2-43a9-90e5-3c136664dd2d.png)
 
+Step-6
+Selct any particular node to see it's connectin with the other nodes
+![image](https://user-images.githubusercontent.com/82569847/222906342-7383d986-efe7-4c93-81f4-52c6e30edaed.png)
+
+Step-7
+Change the colours, align the graph as you want it to look, change the background image in preview
+![image](https://user-images.githubusercontent.com/82569847/222907458-b0ce4f42-f853-4510-b363-5f569487d2ea.png)
+
+Step-8
+Final output
+![image](https://user-images.githubusercontent.com/82569847/222907216-6d7012cc-db29-452d-8cf9-dfefdaf10f6e.png)
