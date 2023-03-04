@@ -11,3 +11,9 @@ Open Gephi and go to File->Generate->Random Graph
 Step-2
 Now enter the 'Number of Nodes' in the prompt and also the 'Wiring probability'(connections you want to establish between the nodes).
 ![image](https://user-images.githubusercontent.com/82569847/222903287-10421ee4-1945-4f18-896c-3f58662ac2fb.png)
+
+Step-3
+Once it is created it will display as follows,
+![image](https://user-images.githubusercontent.com/82569847/222903533-3404abcd-93f0-4d69-a402-2f1aef10e18b.png)
+
+Step-4
