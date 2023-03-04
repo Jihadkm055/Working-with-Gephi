@@ -17,3 +17,10 @@ Once it is created it will display as follows,
 ![image](https://user-images.githubusercontent.com/82569847/222903533-3404abcd-93f0-4d69-a402-2f1aef10e18b.png)
 
 Step-4
+Now go to Data Laboratory at the top and change the labels
+![image](https://user-images.githubusercontent.com/82569847/222903839-d1fed9cb-fa83-4b0a-9476-a99c3f71c25d.png)
+
+Step-5
+Check-in the box node to get the labels visible
+![image](https://user-images.githubusercontent.com/82569847/222903945-f66a48e6-e2a2-43a9-90e5-3c136664dd2d.png)
+
